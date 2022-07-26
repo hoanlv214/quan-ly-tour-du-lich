@@ -8,6 +8,8 @@ Project II - Quản lý tour du lịch
 
 
 # Install
-### npm install
-### npm start
+``` cmd
+npm install
+npm start
+```
 ### http://localhost:5000/
