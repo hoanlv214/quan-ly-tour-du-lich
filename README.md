@@ -7,7 +7,7 @@ Project II - Quản lý tour du lịch
 ### Class diagram
 
 
-# Install
+# Clone project and Install
 ``` cmd
 npm install
 npm start
