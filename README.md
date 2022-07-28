@@ -8,6 +8,7 @@ Project II - Quản lý tour du lịch
 
 
 # Clone project and Install
+git clone https://github.com/hoanlv214/quan-ly-tour-du-lich.git
 ``` cmd
 npm install
 npm start
